@@ -1,0 +1,24 @@
+Parallel.For | Run #1 | - 2333ms
+AsParallel   | Run #1 | - 1762ms
+Sequential   | Run #1 | - 6313ms
+Sequential   | Run #2 | - 6332ms
+AsParallel   | Run #2 | - 1708ms
+Parallel.For | Run #2 | - 1737ms
+./output/parallel_for_I.log -> hash: $37BC75FC027CD8AAB8BB9A8D6CE6723C
+./output/parallel_for_D.log -> hash: $CD93B29B7AB679C7F6798CC651323061
+./output/parallel_for_V.log -> hash: $C0D2B0922D39AF07F322F3A495F675BE
+./output/parallel_for_W.log -> hash: $6817AC2A831C967384001624B9A7D462
+./output/parallel_for_E.log -> hash: $B3F5D1383D8D443F065AE702B4AA5FB0
+./output/parallel_for_F.log -> hash: $CBA118F61264F2BEB45A88C30EE210A8
+./output/_as_parallel_I.log -> hash: $37BC75FC027CD8AAB8BB9A8D6CE6723C
+./output/_as_parallel_D.log -> hash: $CD93B29B7AB679C7F6798CC651323061
+./output/_as_parallel_V.log -> hash: $C0D2B0922D39AF07F322F3A495F675BE
+./output/_as_parallel_W.log -> hash: $6817AC2A831C967384001624B9A7D462
+./output/_as_parallel_E.log -> hash: $B3F5D1383D8D443F065AE702B4AA5FB0
+./output/_as_parallel_F.log -> hash: $CBA118F61264F2BEB45A88C30EE210A8
+./output/__sequential_I.log -> hash: $37BC75FC027CD8AAB8BB9A8D6CE6723C
+./output/__sequential_D.log -> hash: $CD93B29B7AB679C7F6798CC651323061
+./output/__sequential_V.log -> hash: $C0D2B0922D39AF07F322F3A495F675BE
+./output/__sequential_W.log -> hash: $6817AC2A831C967384001624B9A7D462
+./output/__sequential_E.log -> hash: $B3F5D1383D8D443F065AE702B4AA5FB0
+./output/__sequential_F.log -> hash: $CBA118F61264F2BEB45A88C30EE210A8
