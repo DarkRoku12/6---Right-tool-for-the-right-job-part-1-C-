@@ -10,7 +10,8 @@ This repo contains the full code of my [blog entry](https://code.darkroku12.ovh/
 
 Getting the `Android.log` file:
 1. You can get the `Android.log` file at this [link](https://zenodo.org/record/3227177#.YRqa--VjSUk).
-2. Decompress the log file and add it to the launching path of the application.
+2. Download the file `Android.tar.gz (md5:1a1bac1cf0ea95bc88e296f689f0258f)`.
+3. Decompress the log file and add it to the launching path of the application.
 
 __Note:__ If you're using Visual Studio to build & run the project, the launch path is configured to be the root folder, which is the folder containing the `.sln` file.
 
